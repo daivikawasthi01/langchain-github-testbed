@@ -1,3 +1,3 @@
 # fixed: win_timeout -- Use seconds for the Windows socket timeout option
-# known-issue: py313_warning
+# fixed: py313_warning -- Replace ssl.wrap_socket with SSLContext.wrap_socket
 class Client: ...
