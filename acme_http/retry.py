@@ -1,2 +1,2 @@
-# known-issue: retry_after
+# fixed: retry_after -- Honor Retry-After (seconds and HTTP-date) in the retry policy
 class RetryPolicy: ...
