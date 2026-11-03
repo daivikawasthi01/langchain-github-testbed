@@ -1,3 +1,3 @@
-# known-issue: win_timeout
+# fixed: win_timeout -- Use seconds for the Windows socket timeout option
 # known-issue: py313_warning
 class Client: ...
